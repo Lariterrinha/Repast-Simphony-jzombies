@@ -10,5 +10,7 @@ O modelo simula a interação entre zumbis, humanos e um personagem especial cha
 "Zombies" perseguem e infectam "Humans", enquanto o "ZombieKiller" caça e elimina zumbis, tentando conter a propagação da infecção.
 
 Tecnologias Utilizadas:
+
 Linguagem: Java
+
 Framework: Repast Simphony
