@@ -17,4 +17,5 @@ O modelo simula a interação entre zumbis, humanos e um personagem especial cha
 **Linguagem**: Java
 
 **Framework**: Repast Simphony - Eclipse IDE
+https://repast.github.io/repast_simphony.html
 
