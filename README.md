@@ -11,4 +11,5 @@ O modelo simula a interação entre zumbis, humanos e um personagem especial cha
 
 ## Tecnologias Utilizadas:
 Linguagem: Java
+
 Framework: Repast Simphony
